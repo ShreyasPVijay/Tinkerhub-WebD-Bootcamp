@@ -1,7 +1,7 @@
 # WebDesign-Bootcamp
-2 Day Web Design Bootcamp conducted by TinkerHub CUCEK in association with TinkerHub MESM
+# Web Design Bootcamp conducted by TinkerHub CUCEK in association with TinkerHub MESM
 
-#Instructions to submit your project
+# Instructions to submit your project
 
 1. Fork this repository
 2. Create a folder for your college, if not already existing.
@@ -9,4 +9,4 @@
 (for example: 1. Sunith V S - (link))
 4. Raise a Pull Request.
 
-Happy Learning!
+# Happy Learning!
